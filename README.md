@@ -26,19 +26,31 @@
 
 ## Projects
 ### Harry Potter Movie Scripts: Analysis
+
+The Harry Potter Movie Script Dashboard, created with Tableau and Python, provides analysis of the Harry Potter film series. It visualizes dialogue distribution, character prominence, popular locations, and spell usage. The data, sourced from movie scripts, underwent cleaning and preparation before being visualized. Insights include dialogue peaks, longest runtime, frequent spells, and popular locations, providing a comprehensive overview. Recommendations emphasize compelling dialogue, exploring new spells, and featuring iconic locations to enhance the enchanting experience.
 - [GitHub](https://github.com/Niharika-Ravela/Harry-potter-analysis)
 - [Medium](https://medium.com/@ravelaniharika93/harry-potter-movie-script-analysis-d7d85dc8f92f)
 
-![HarryPotterAnalysis](/assets/harrypotter-analysis.jpg)
+### British Airways: Sentiment Analysis and Predictive Modeling
 
 The Harry Potter Movie Script Dashboard, created with Tableau and Python, provides analysis of the Harry Potter film series. It visualizes dialogue distribution, character prominence, popular locations, and spell usage. The data, sourced from movie scripts, underwent cleaning and preparation before being visualized. Insights include dialogue peaks, longest runtime, frequent spells, and popular locations, providing a comprehensive overview. Recommendations emphasize compelling dialogue, exploring new spells, and featuring iconic locations to enhance the enchanting experience.
+- [GitHub](https://github.com/Niharika-Ravela/British_Airways_Forage)
+- [Medium]()
 
+### SQL Project
 
+The Harry Potter Movie Script Dashboard, created with Tableau and Python, provides analysis of the Harry Potter film series. It visualizes dialogue distribution, character prominence, popular locations, and spell usage. The data, sourced from movie scripts, underwent cleaning and preparation before being visualized. Insights include dialogue peaks, longest runtime, frequent spells, and popular locations, providing a comprehensive overview. Recommendations emphasize compelling dialogue, exploring new spells, and featuring iconic locations to enhance the enchanting experience.
+- [GitHub]()
+- [Medium]()
+
+  
 ## Certifications
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+- Microsoft Certified: Azure AI Fundamentals - September 2023
+- Data Science Job Simulation - British Airways - September 2023
+- SAS Visual Statistics on SAS Viya: Interactive Model Building - SAS - June 2023
+- The Data Science Course 2021: Complete Data Science Bootcamp - Udemy - May 2021
+- Python Project: pillow, tesseract, and opencv - University of Michigan | Coursera - August, 2020
+- Machine Learning: Predict Numbers from Handwritten Digits using a Neural Network, Keras, and R - June 2020
+- Python For Everybody path - University of Michigan | Coursera - August, 2020
+- COVID19 Data Analysis Using Python - June 2020
 
