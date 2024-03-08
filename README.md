@@ -48,6 +48,9 @@ The Harry Potter Movie Script Dashboard, created with Tableau and Python, provid
 
   
 ## Certifications
+Microsoft Azure AI             |  Data Science Job Simulation | SAS Visual Statistics
+:-------------------------:|:-------------------------: | :-------------------------:
+![](https://github.com/Niharika-Ravela/Niharika-Ravela.github.io/blob/main/assets/Microsoft.png)  |  ![](https://github.com/Niharika-Ravela/Niharika-Ravela.github.io/blob/main/assets/BA.jpg) | ![](https://github.com/Niharika-Ravela/Niharika-Ravela.github.io/blob/main/assets/sas.png)
 - Microsoft Certified: Azure AI Fundamentals - September 2023
 - Data Science Job Simulation - British Airways - September 2023
 - SAS Visual Statistics on SAS Viya: Interactive Model Building - SAS - June 2023
