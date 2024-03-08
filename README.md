@@ -1,15 +1,18 @@
-# Niharika Ravela
-
 #### Technical Skills: Python, SQL, Azure, Tableau, Power BI
 
 ## Education
-- M.S., Data Science | University of North Texas (_December 2023_) | GPA - 3.8							       		
-- B.Tech., Computer Science	| Vijaya Institute of Technology (_August 2021_) | GPA - 3.4
+- M.S., Data Science | University of North Texas (_December 2023_) | GPA  3.8							       		
+- B.Tech., Computer Science	| Vijaya Institute of Technology (_August 2021_) | GPA  3.4
 
 ## Internships and Voluntary Work
 **Voluntary Intern @ dSilo.ai (_November 2023 - Present_)**
-- ts
-- es
+- Product Mapping: Wrote Python scripts to match and map products across different datasets, ensuring consistency in product identification and categorization.
+- Vendor Unification: Implemented fuzzy matching algorithms in Python to unify vendor names or identifiers across datasets, achieving a threshold similarity score of 90%.
+- Extracting Bounding Coordinates from JSON Files:Developed Python code to extract bounding coordinates from JSON files, enabling precise localization of items within documents or images.
+- Master Data Management:Led master data management efforts, ensuring the accuracy and consistency of invoice and vendor data assets across the organization.
+- PDF Content Extraction and Enhancement: Utilized OCR techniques to extract text from scanned PDF documents, enhancing readability and searchability by overlaying the extracted text onto the original PDF files.
+- Conducted data analysis to compare existing suppliers with those lacking contracts, identifying discrepancies and opportunities for contract management improvement.
+- Blackstone Data Validations Framework and Outlier Detection:Implemented the design phase of data validations framework, performing comprehensive data validations on invoices and developing outlier detection models to identify unusual transactions based on historical data.
 
 **Data Science Intern @ AppsTek Corp (_February 2021 - December 2021_)**
 - os
