@@ -1,8 +1,8 @@
 #### Technical Skills: Python, SQL, Azure, Tableau, Power BI
 
 ## Education
-- M.S., Data Science | University of North Texas (_December 2023_) | GPA  3.8       		
-- B.Tech., Computer Science	| Vijaya Institute of Technology (_August 2021_) | GPA  3.4
+M.S., Data Science | University of North Texas (_December 2023_) | GPA  3.8       		
+B.Tech., Computer Science	| Vijaya Institute of Technology (_August 2021_) | GPA  3.4
 
 ## Internships and Voluntary Work
 **Voluntary Intern @ dSilo.ai (_November 2023 - Present_)**
