@@ -72,13 +72,13 @@
   </tr>
   <tr>
     <td style="text-align: center; padding: 10px;"><p align="center">
-      <a href="https://learn.microsoft.com/en-us/users/ravelaniharika-2848/credentials/27d5c5df51ded62e"><img src="https://github.com/Niharika-Ravela/Niharika-Ravela.github.io/blob/main/assets/Microsoft.png" width="200"></a></p>
+      <a href="https://learn.microsoft.com/en-us/users/ravelaniharika-2848/credentials/27d5c5df51ded62e"><img src="https://github.com/Niharika-Ravela/Niharika-Ravela.github.io/blob/main/assets/Microsoft.png?raw=true" width="200"></a></p>
     </td>
      <td style="text-align: center; padding: 10px;"><p align="center">
-       <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_upBkDEm3kPbRtvHnX_1695611251010_completion_certificate.pdf"><img src="https://github.com/Niharika-Ravela/Niharika-Ravela.github.io/blob/main/assets/BA.jpg" width="200"></a></p>
+       <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_upBkDEm3kPbRtvHnX_1695611251010_completion_certificate.pdf"><img src="https://github.com/Niharika-Ravela/Niharika-Ravela.github.io/blob/main/assets/BA.jpg?raw=true" width="200"></a></p>
     </td>
     <td style="text-align: center; padding: 10px;"><p align="center">
-      <a href="https://www.credly.com/badges/ecbc146e-c8df-4aaa-a4b0-46c104b0f9d5/linked_in_profile"><img src="https://github.com/Niharika-Ravela/Niharika-Ravela.github.io/blob/main/assets/sas.png" width="200"></a></p></td>
+      <a href="https://www.credly.com/badges/ecbc146e-c8df-4aaa-a4b0-46c104b0f9d5/linked_in_profile"><img src="https://github.com/Niharika-Ravela/Niharika-Ravela.github.io/blob/main/assets/sas.png?raw=true" width="200"></a></p></td>
   </tr>
   <tr>
     <td align="center">Data science Bootcamp</td>
@@ -86,9 +86,9 @@
     <td align="center">Pillow, tesseract, and opencv</td>
   </tr>
   <tr>
-    <td style="text-align: center; padding: 10px;"><p align="center"><a href="https://www.udemy.com/certificate/UC-eac83b0b-9d82-4584-b216-26d585c6b1a4/"><img src="https://github.com/Niharika-Ravela/Niharika-Ravela.github.io/blob/main/assets/datasciencebtcmp.jpg" width="200"></a></p></td>
-    <td style="text-align: center; padding: 10px;"><p align="center"><a href="https://api.growthschool.io/certificate/1c24429f-53e1-49a4-b0a8-d5843e994cc2"><img src="https://github.com/Niharika-Ravela/Niharika-Ravela.github.io/blob/main/assets/viz.png" width="200"></a></p></td>
-    <td style="text-align: center; padding: 10px;"><p align="center"><a href="https://www.coursera.org/account/accomplishments/verify/579B7TG8U7YY?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course"><img src="https://github.com/Niharika-Ravela/Niharika-Ravela.github.io/blob/main/assets/pythonusecase.png" width="200"></a></p></td>
+    <td style="text-align: center; padding: 10px;"><p align="center"><a href="https://www.udemy.com/certificate/UC-eac83b0b-9d82-4584-b216-26d585c6b1a4/"><img src="https://github.com/Niharika-Ravela/Niharika-Ravela.github.io/blob/main/assets/datasciencebtcmp.jpg?raw=true" width="200"></a></p></td>
+    <td style="text-align: center; padding: 10px;"><p align="center"><a href="https://api.growthschool.io/certificate/1c24429f-53e1-49a4-b0a8-d5843e994cc2"><img src="https://github.com/Niharika-Ravela/Niharika-Ravela.github.io/blob/main/assets/viz.png?raw=true" width="200"></a></p></td>
+    <td style="text-align: center; padding: 10px;"><p align="center"><a href="https://www.coursera.org/account/accomplishments/verify/579B7TG8U7YY?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course"><img src="https://github.com/Niharika-Ravela/Niharika-Ravela.github.io/blob/main/assets/pythonusecase.png?raw=true" width="200"></a></p></td>
   </tr>
 </table>
 
