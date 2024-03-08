@@ -3,15 +3,15 @@
 #### Technical Skills: Python, SQL, Azure, Tableau, Power BI
 
 ## Education
-- M.S., Data Science | University of North Texas (_December 2023_)								       		
-- B.Tech., Computer Science	| Vijaya Institute of Technology (_August 2021_)
+- M.S., Data Science | University of North Texas (_December 2023_) | GPA - 3.8							       		
+- B.Tech., Computer Science	| Vijaya Institute of Technology (_August 2021_) | GPA - 3.4
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
+## Internships and Voluntary Work
+**Voluntary Intern @ dSilo.ai (_November 2023 - Present_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
+**Data Science Intern @ AppsTek Corp (_February 2021 - December 2021_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
