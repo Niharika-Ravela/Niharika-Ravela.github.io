@@ -1,4 +1,5 @@
-#### Technical Skills: Python, SQL, Azure, Tableau, Power BI
+#### Technical Skills: Python, SQL, Azure, Tableau, Power BI, GitHub
+#### Machine Learning: Supervised and Unsupervised Learning,Ensemble Methods, Natural Language Processing, Computer Vision, Feature Engineering, Hyperparameter Tuning, Visualization using Matplotlib, Plotly, Seaborn
 
 ## Education
 - M.S., Data Science | University of North Texas (_December 2023_) | GPA  3.8       		
@@ -25,38 +26,74 @@
 - Evaluated model performance metrics like accuracy and F1-score to assess predictive capabilities.
 
 ## Projects
-### Harry Potter Movie Scripts: Analysis
 
-<p align="center">
-  <img src="https://github.com/Niharika-Ravela/Niharika-Ravela.github.io/blob/main/assets/harrypotter-analysis.jpg?raw=true" alt="harrypotter analysis"/>
-</p>
-The Harry Potter Movie Script Dashboard, created with Tableau and Python, provides analysis of the Harry Potter film series. It visualizes dialogue distribution, character prominence, popular locations, and spell usage. The data, sourced from movie scripts, underwent cleaning and preparation before being visualized. Insights include dialogue peaks, longest runtime, frequent spells, and popular locations, providing a comprehensive overview. Recommendations emphasize compelling dialogue, exploring new spells, and featuring iconic locations to enhance the enchanting experience.
-- [GitHub](https://github.com/Niharika-Ravela/Harry-potter-analysis)
-- [Medium](https://medium.com/@ravelaniharika93/harry-potter-movie-script-analysis-d7d85dc8f92f)
-
-### British Airways: Sentiment Analysis and Predictive Modeling
-
-The Harry Potter Movie Script Dashboard, created with Tableau and Python, provides analysis of the Harry Potter film series. It visualizes dialogue distribution, character prominence, popular locations, and spell usage. The data, sourced from movie scripts, underwent cleaning and preparation before being visualized. Insights include dialogue peaks, longest runtime, frequent spells, and popular locations, providing a comprehensive overview. Recommendations emphasize compelling dialogue, exploring new spells, and featuring iconic locations to enhance the enchanting experience.
-- [GitHub](https://github.com/Niharika-Ravela/British_Airways_Forage)
-- [Medium]()
-
-### SQL Project
-
-The Harry Potter Movie Script Dashboard, created with Tableau and Python, provides analysis of the Harry Potter film series. It visualizes dialogue distribution, character prominence, popular locations, and spell usage. The data, sourced from movie scripts, underwent cleaning and preparation before being visualized. Insights include dialogue peaks, longest runtime, frequent spells, and popular locations, providing a comprehensive overview. Recommendations emphasize compelling dialogue, exploring new spells, and featuring iconic locations to enhance the enchanting experience.
-- [GitHub]()
-- [Medium]()
-
+<table style="border-collapse: collapse; width: 80%; border: none;">
+  <tr>
+    <td style="text-align: center; padding: 10px;">Harry Potter Movie Scripts using Tableau</td>
+    <td style="text-align: center; padding: 10px;">Sentiment Analysis and Predictive Modelling</td>
+    <td style="text-align: center; padding: 10px;">Superstore Data Analysis using Power BI</td>
+  </tr>
+  <tr>
+    <td style="text-align: center; padding: 10px;"><p align="center">
+    <img src="https://github.com/Niharika-Ravela/Niharika-Ravela.github.io/blob/main/assets/harrypotter-analysis.jpg?raw=true" alt="harrypotter analysis"/><br> <a href="https://github.com/Niharika-Ravela/Harry-potter-analysis">GitHub</a> | <a href="https://medium.com/@ravelaniharika93/harry-potter-movie-script-analysis-d7d85dc8f92f">Medium</a></p>
+    </td>
+    <td style="text-align: center; padding: 10px;"><p align="center">
+    <img src="https://github.com/Niharika-Ravela/Niharika-Ravela.github.io/blob/main/assets/textanalysis.jpg?raw=true" alt="british airways"/><br> <a href="https://github.com/Niharika-Ravela/British_Airways_Forage">GitHub</a> | <a href="https://medium.com/@ravelaniharika93">Medium</a></p>
+    </td>
+    <td style="text-align: center; padding: 10px;"><p align="center">
+    <img src="https://github.com/Niharika-Ravela/Niharika-Ravela.github.io/blob/main/assets/superstore.jpg?raw=true" alt="superstore data analysis"/><br> <a href="https://github.com/Niharika-Ravela/Superstore-Data-Analysis-using-PowerBI">GitHub</a> | <a href="https://medium.com/@ravelaniharika93">Medium</a></p>
+    </td>
+  </tr>
+   <tr>
+    <td style="text-align: center; padding: 10px;">Body Fat Prediction</td>
+    <td style="text-align: center; padding: 10px;">House Price Analysis using Excel</td>
+    <td style="text-align: center; padding: 10px;">Identifying Alzheimer's using Handwriting</td>
+  </tr>
+  <tr>
+    <td style="text-align: center; padding: 10px;"><p align="center">
+    <img src="https://github.com/Niharika-Ravela/Niharika-Ravela.github.io/blob/main/assets/bodyfat.jpg?raw=true" alt="Body Fat Prediction"/><br> <a href="https://github.com/Niharika-Ravela/Predicting-Body-Fat">GitHub</a> | <a href="https://medium.com/@ravelaniharika93">Medium</a></p>
+    </td>
+    <td style="text-align: center; padding: 10px;"><p align="center">
+    <img src="https://github.com/Niharika-Ravela/Niharika-Ravela.github.io/blob/main/assets/excelanalysis.jpg?raw=true" alt="House Price Analysis"/><br> <a href="https://github.com/Niharika-Ravela/Data-Analysis-for-Housing-Data-in-Boston-using-Excel">GitHub</a> | <a href="https://medium.com/@ravelaniharika93">Medium</a></p>
+    </td>
+    <td style="text-align: center; padding: 10px;"><p align="center">
+    <img src="https://github.com/Niharika-Ravela/Niharika-Ravela.github.io/blob/main/assets/alzheimers.jpg?raw=true" alt="Alzheimer's Prediction"/><br> <a href="https://github.com/Niharika-Ravela/Prediction-of-Alzheimer-s-using-DARWIN">GitHub</a> | <a href="https://medium.com/@ravelaniharika93">Medium</a></p>
+    </td>
+  </tr>
+</table>
   
 ## Certifications
-Microsoft Azure AI             |  Data Science Job Simulation | SAS Visual Statistics
-:-------------------------:|:-------------------------: | :-------------------------:
-![](https://github.com/Niharika-Ravela/Niharika-Ravela.github.io/blob/main/assets/Microsoft.png)  |  ![](https://github.com/Niharika-Ravela/Niharika-Ravela.github.io/blob/main/assets/BA.jpg) | ![](https://github.com/Niharika-Ravela/Niharika-Ravela.github.io/blob/main/assets/sas.png)
-- Microsoft Certified: Azure AI Fundamentals - September 2023
-- Data Science Job Simulation - British Airways - September 2023
-- SAS Visual Statistics on SAS Viya: Interactive Model Building - SAS - June 2023
-- The Data Science Course 2021: Complete Data Science Bootcamp - Udemy - May 2021
-- Python Project: pillow, tesseract, and opencv - University of Michigan - August, 2020
-- Machine Learning: Predict Numbers from Handwritten Digits using a Neural Network, Keras, and R - June 2020
-- Python For Everybody path - University of Michigan - August, 2020
-- COVID19 Data Analysis Using Python - June 2020
+
+<table>
+  <tr>
+    <td align="center">Microsoft Azure AI</td>
+    <td align="center">Data Science Job Simulation</td>
+    <td align="center">SAS Visual Statistics</td>
+  </tr>
+  <tr>
+    <td style="text-align: center; padding: 10px;"><p align="center">
+      <a href="https://learn.microsoft.com/en-us/users/ravelaniharika-2848/credentials/27d5c5df51ded62e"><img src="https://github.com/Niharika-Ravela/Niharika-Ravela.github.io/blob/main/assets/Microsoft.png" width="200"></a></p>
+    </td>
+     <td style="text-align: center; padding: 10px;"><p align="center">
+       <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_upBkDEm3kPbRtvHnX_1695611251010_completion_certificate.pdf"><img src="https://github.com/Niharika-Ravela/Niharika-Ravela.github.io/blob/main/assets/BA.jpg" width="200"></a></p>
+    </td>
+    <td style="text-align: center; padding: 10px;"><p align="center">
+      <a href="https://www.credly.com/badges/ecbc146e-c8df-4aaa-a4b0-46c104b0f9d5/linked_in_profile"><img src="https://github.com/Niharika-Ravela/Niharika-Ravela.github.io/blob/main/assets/sas.png" width="200"></a></p></td>
+  </tr>
+  <tr>
+    <td align="center">Data science Bootcamp</td>
+    <td align="center">Data Visualization using Power BI</td>
+    <td align="center">Pillow, tesseract, and opencv</td>
+  </tr>
+  <tr>
+    <td style="text-align: center; padding: 10px;"><p align="center"><a href="https://www.udemy.com/certificate/UC-eac83b0b-9d82-4584-b216-26d585c6b1a4/"><img src="https://github.com/Niharika-Ravela/Niharika-Ravela.github.io/blob/main/assets/datasciencebtcmp.jpg" width="200"></a></p></td>
+    <td style="text-align: center; padding: 10px;"><p align="center"><a href="https://api.growthschool.io/certificate/1c24429f-53e1-49a4-b0a8-d5843e994cc2"><img src="https://github.com/Niharika-Ravela/Niharika-Ravela.github.io/blob/main/assets/viz.png" width="200"></a></p></td>
+    <td style="text-align: center; padding: 10px;"><p align="center"><a href="https://www.coursera.org/account/accomplishments/verify/579B7TG8U7YY?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course"><img src="https://github.com/Niharika-Ravela/Niharika-Ravela.github.io/blob/main/assets/pythonusecase.png" width="200"></a></p></td>
+  </tr>
+</table>
+
+
+
+
+
 
