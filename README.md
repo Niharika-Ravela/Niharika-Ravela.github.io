@@ -1,8 +1,8 @@
 #### Technical Skills: Python, SQL, Azure, Tableau, Power BI
 
 ## Education
-M.S., Data Science | University of North Texas (_December 2023_) | GPA  3.8       		
-B.Tech., Computer Science	| Vijaya Institute of Technology (_August 2021_) | GPA  3.4
+- M.S., Data Science | University of North Texas (_December 2023_) | GPA  3.8       		
+- B.Tech., Computer Science	| Vijaya Institute of Technology (_August 2021_) | GPA  3.4
 
 ## Internships and Voluntary Work
 **Voluntary Intern @ dSilo.ai (_November 2023 - Present_)**
@@ -27,6 +27,9 @@ B.Tech., Computer Science	| Vijaya Institute of Technology (_August 2021_) | GPA
 ## Projects
 ### Harry Potter Movie Scripts: Analysis
 
+<p align="center">
+  <img src="https://github.com/Niharika-Ravela/Niharika-Ravela.github.io/blob/main/assets/harrypotter-analysis.jpg?raw=true" alt="harrypotter analysis"/>
+</p>
 The Harry Potter Movie Script Dashboard, created with Tableau and Python, provides analysis of the Harry Potter film series. It visualizes dialogue distribution, character prominence, popular locations, and spell usage. The data, sourced from movie scripts, underwent cleaning and preparation before being visualized. Insights include dialogue peaks, longest runtime, frequent spells, and popular locations, providing a comprehensive overview. Recommendations emphasize compelling dialogue, exploring new spells, and featuring iconic locations to enhance the enchanting experience.
 - [GitHub](https://github.com/Niharika-Ravela/Harry-potter-analysis)
 - [Medium](https://medium.com/@ravelaniharika93/harry-potter-movie-script-analysis-d7d85dc8f92f)
