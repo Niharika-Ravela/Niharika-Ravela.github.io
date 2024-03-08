@@ -15,23 +15,25 @@
 - Blackstone Data Validations Framework and Outlier Detection:Implemented the design phase of data validations framework, performing comprehensive data validations on invoices and developing outlier detection models to identify unusual transactions based on historical data.
 
 **Data Science Intern @ AppsTek Corp (_February 2021 - December 2021_)**
-- os
-- es
+- Data Cleaning and Preprocessing:Employed Python and Pandas to clean and preprocess raw datasets, handling missing values and outliers.
+- Utilized SQL for data manipulation tasks, including joining multiple tables and filtering rows.
+- Exploratory Data Analysis (EDA): Utilized Python libraries like Matplotlib and Seaborn to create visualizations such as histograms and scatter plots.
+- Leveraged Tableau for interactive visualizations to identify patterns and trends in the data.
+- Generated interactive dashboards and reports using Tableau to present findings and insights.
+- Used Python libraries like NumPy and SciPy to calculate descriptive statistics such as mean, median, and standard deviation. Conducted hypothesis testing to make inferences about population parameters.
+- Built machine learning models using Python libraries like Scikit-learn and TensorFlow.
+- Evaluated model performance metrics like accuracy and F1-score to assess predictive capabilities.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
-
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+[GitHub](https://www.mdpi.com/1424-8220/22/8/3048)
+[Medium](https://www.mdpi.com/1424-8220/22/8/3048)
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
-![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Certifications
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
@@ -41,4 +43,3 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - Weeks of Welcome Poster Competition - UTD, Fall 2019
 - A Brief Introduction to Networks - GSP Seminar, Spring 2019
 
-- [Data Science Blog](https://medium.com/@shawhin)
