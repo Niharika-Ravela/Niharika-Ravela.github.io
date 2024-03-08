@@ -1,8 +1,7 @@
 #### Technical Skills: Python, SQL, Azure, Tableau, Power BI
 
 ## Education
-- M.S., Data Science | University of North Texas (_December 2023_) | GPA  3.8
-  [UNT Great Grad Fall 2023]  (https://www.unt.edu/commencement/great-grads/fall-2023#ravela)          		
+- M.S., Data Science | University of North Texas (_December 2023_) | GPA  3.8       		
 - B.Tech., Computer Science	| Vijaya Institute of Technology (_August 2021_) | GPA  3.4
 
 ## Internships and Voluntary Work
