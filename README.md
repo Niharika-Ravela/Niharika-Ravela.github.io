@@ -25,14 +25,13 @@
 - Evaluated model performance metrics like accuracy and F1-score to assess predictive capabilities.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[GitHub](https://www.mdpi.com/1424-8220/22/8/3048)
-[Medium](https://www.mdpi.com/1424-8220/22/8/3048)
+### Harry Potter Movie Scripts: Analysis
+- [GitHub](https://github.com/Niharika-Ravela/Harry-potter-analysis)
+- [Medium](https://medium.com/@ravelaniharika93/harry-potter-movie-script-analysis-d7d85dc8f92f)
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![HarryPotterAnalysis](/assets/harrypotter-analysis.jpeg)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
+The Harry Potter Movie Script Dashboard, created with Tableau and Python, provides analysis of the Harry Potter film series. It visualizes dialogue distribution, character prominence, popular locations, and spell usage. The data, sourced from movie scripts, underwent cleaning and preparation before being visualized. Insights include dialogue peaks, longest runtime, frequent spells, and popular locations, providing a comprehensive overview. Recommendations emphasize compelling dialogue, exploring new spells, and featuring iconic locations to enhance the enchanting experience.
 
 
 ## Certifications
