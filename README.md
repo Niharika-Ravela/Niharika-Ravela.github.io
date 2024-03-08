@@ -46,12 +46,12 @@ The Harry Potter Movie Script Dashboard, created with Tableau and Python, provid
 
   
 ## Certifications
-- Microsoft Certified: Azure AI Fundamentals - September 2023 |
-- Data Science Job Simulation - British Airways - September 2023 |
-- SAS Visual Statistics on SAS Viya: Interactive Model Building - SAS - June 2023 |
-- The Data Science Course 2021: Complete Data Science Bootcamp - Udemy - May 2021 |
-- Python Project: pillow, tesseract, and opencv - University of Michigan - August, 2020 |
-- Machine Learning: Predict Numbers from Handwritten Digits using a Neural Network, Keras, and R - June 2020 |
-- Python For Everybody path - University of Michigan - August, 2020 |
+- Microsoft Certified: Azure AI Fundamentals - September 2023
+- Data Science Job Simulation - British Airways - September 2023
+- SAS Visual Statistics on SAS Viya: Interactive Model Building - SAS - June 2023
+- The Data Science Course 2021: Complete Data Science Bootcamp - Udemy - May 2021
+- Python Project: pillow, tesseract, and opencv - University of Michigan - August, 2020
+- Machine Learning: Predict Numbers from Handwritten Digits using a Neural Network, Keras, and R - June 2020
+- Python For Everybody path - University of Michigan - August, 2020
 - COVID19 Data Analysis Using Python - June 2020
 
