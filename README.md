@@ -29,7 +29,7 @@
 - [GitHub](https://github.com/Niharika-Ravela/Harry-potter-analysis)
 - [Medium](https://medium.com/@ravelaniharika93/harry-potter-movie-script-analysis-d7d85dc8f92f)
 
-![HarryPotterAnalysis](/assets/harrypotter-analysis.jpeg)
+![HarryPotterAnalysis](/assets/harrypotter-analysis.jpg)
 
 The Harry Potter Movie Script Dashboard, created with Tableau and Python, provides analysis of the Harry Potter film series. It visualizes dialogue distribution, character prominence, popular locations, and spell usage. The data, sourced from movie scripts, underwent cleaning and preparation before being visualized. Insights include dialogue peaks, longest runtime, frequent spells, and popular locations, providing a comprehensive overview. Recommendations emphasize compelling dialogue, exploring new spells, and featuring iconic locations to enhance the enchanting experience.
 
