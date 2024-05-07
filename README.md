@@ -15,6 +15,16 @@
 - Conducted data analysis to compare existing suppliers with those lacking contracts, identifying discrepancies and opportunities for contract management improvement.
 - Blackstone Data Validations Framework and Outlier Detection:Implemented the design phase of data validations framework, performing comprehensive data validations on invoices and developing outlier detection models to identify unusual transactions based on historical data.
 
+**Admin Assistant @ UNT Libraries (_February 2022 - December 2023_)**
+- Assigned collection numbers and created accession records for donations and gifts, ensuring the accurate cataloging and preservation of archival materials using Excel and Access.
+- Utilized project management tools such as Basecamp, Trello, and Teams to manage projects efficiently, maintaining project documentation and fostering collaboration among team members.
+- Developed and maintained comprehensive project documentation, including project plans, timelines, and progress reports, facilitating transparent communication and project tracking.
+- Conducted regular reviews of the UNT Special Collections website to ensure accuracy, identify updates, and rectify errors, enhancing the user experience.
+- Authored engaging blurbs for newsletters and magazines, effectively promoting the Special Collections and its resources to a wider audience.
+- Aided in tracking departmental budget allocations for preservation, donations, and general expenditures, optimizing financial transparency.
+- Processed, tracked, and filed gift agreements and donor letters, maintaining meticulous records of donor contributions and facilitating donor relations.
+- Communicated effectively with researchers and patrons, providing assistance, guidance, and access to Special Collections resources to meet their research needs.
+
 **Data Science Intern @ AppsTek Corp (_February 2021 - December 2021_)**
 - Data Cleaning and Preprocessing:Employed Python and Pandas to clean and preprocess raw datasets, handling missing values and outliers.
 - Utilized SQL for data manipulation tasks, including joining multiple tables and filtering rows.
