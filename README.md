@@ -2,7 +2,6 @@
 #### Machine Learning: Supervised and Unsupervised Learning,Ensemble Methods, Natural Language Processing, Computer Vision, Feature Engineering, Hyperparameter Tuning, Visualization using Matplotlib, Plotly, Seaborn
 
 ## Projects
-<table align = "center">
   
 | Harry Potter Movie Scripts using Tableau | Sentiment Analysis and Predictive Modelling | Superstore Data Analysis using Power BI |
 | :---------------------------------------: | :-----------------------------------------: | :--------------------------------------: |
@@ -11,7 +10,6 @@
 |                Body Fat Prediction                |      House Price Analysis using Excel      |    Identifying Alzheimer's using Handwriting   |
 | :---------------------------------------: | :-----------------------------------------: | :--------------------------------------: |
 | ![Body Fat Prediction](https://github.com/Niharika-Ravela/Niharika-Ravela.github.io/blob/main/assets/bodyfat.jpg?raw=true)<br>[GitHub](https://github.com/Niharika-Ravela/Predicting-Body-Fat) \| [Medium](https://medium.com/@ravelaniharika93) | ![House Price Analysis](https://github.com/Niharika-Ravela/Niharika-Ravela.github.io/blob/main/assets/excelanalysis.jpg?raw=true)<br>[GitHub](https://github.com/Niharika-Ravela/Data-Analysis-for-Housing-Data-in-Boston-using-Excel) \| [Medium](https://medium.com/@ravelaniharika93) | ![Alzheimer's Prediction](https://github.com/Niharika-Ravela/Niharika-Ravela.github.io/blob/main/assets/alzheimers.jpg?raw=true)<br>[GitHub](https://github.com/Niharika-Ravela/Prediction-of-Alzheimer-s-using-DARWIN) \| [Medium](https://medium.com/@ravelaniharika93) |
-</table>
 
   
 ## Certifications
