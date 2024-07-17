@@ -1,6 +1,3 @@
-#### Technical Skills:  Python, R, SQL, Excel, Tableau, Power BI, SAS, MongoDB, Spark, Azure, Git, JIRA, ETL (Extract, Transform, Load).
-#### Machine Learning: Supervised and Unsupervised Learning,Ensemble Methods, Natural Language Processing, Computer Vision, Feature Engineering, Hyperparameter Tuning, Visualization using Matplotlib, Plotly, Seaborn
-
 ## Projects
   
 | Harry Potter Movie Scripts using Tableau | Sentiment Analysis and Predictive Modelling | Superstore Data Analysis using Power BI |
